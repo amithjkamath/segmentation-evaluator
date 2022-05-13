@@ -1,0 +1,4 @@
+Image,Label,Object
+/home/akamath/MATLAB/segmentation-evaluator/simple_data/candidate01_fivepointedstar.png,/home/akamath/MATLAB/segmentation-evaluator/simple_data/label01_fivepointedstar.png,star
+/home/akamath/MATLAB/segmentation-evaluator/simple_data/candidate02_biking.png,/home/akamath/MATLAB/segmentation-evaluator/simple_data/label02_biking.png,biker
+/home/akamath/MATLAB/segmentation-evaluator/simple_data/candidate03_brainstem.png,/home/akamath/MATLAB/segmentation-evaluator/simple_data/label03_brainstem.png,brainstem
