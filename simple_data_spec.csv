@@ -1,4 +1,6 @@
 Image,Label,Object
-/home/akamath/MATLAB/segmentation-evaluator/simple_data/candidate01_fivepointedstar.png,/home/akamath/MATLAB/segmentation-evaluator/simple_data/label01_fivepointedstar.png,star
-/home/akamath/MATLAB/segmentation-evaluator/simple_data/candidate02_biking.png,/home/akamath/MATLAB/segmentation-evaluator/simple_data/label02_biking.png,biker
-/home/akamath/MATLAB/segmentation-evaluator/simple_data/candidate03_brainstem.png,/home/akamath/MATLAB/segmentation-evaluator/simple_data/label03_brainstem.png,brainstem
+/Users/amithkamath/repo/segmentation-evaluator/simple_data/candidate01_fivepointedstar.png,/Users/amithkamath/repo/segmentation-evaluator/simple_data/label01_fivepointedstar.png,star
+/Users/amithkamath/repo/segmentation-evaluator/simple_data/candidate02_biking.png,/Users/amithkamath/repo/segmentation-evaluator/simple_data/label02_biking.png,biker
+/Users/amithkamath/repo/segmentation-evaluator/simple_data/candidate03_covid19.png,/Users/amithkamath/repo/segmentation-evaluator/simple_data/label03_covid19.png,Covid19
+/Users/amithkamath/repo/segmentation-evaluator/simple_data/candidate04_brainstem.png,/Users/amithkamath/repo/segmentation-evaluator/simple_data/label04_brainstem.png,Brainstem
+/Users/amithkamath/repo/segmentation-evaluator/simple_data/candidate05_covid19.png,/Users/amithkamath/repo/segmentation-evaluator/simple_data/label05_covid19.png,Covid19_hard
